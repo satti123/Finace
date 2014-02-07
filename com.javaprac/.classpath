@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="G:/Jar files/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="G:/Jar files/dom4j-1.6.1.zip"/>
+	<classpathentry kind="lib" path="G:/Jar files/fontbox-0.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/ojdbc14-10g.jar.zip"/>
+	<classpathentry kind="lib" path="G:/Jar files/pdfbox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/SeleniumFlex-API_0.2.5.zip"/>
+	<classpathentry kind="lib" path="G:/Jar files/selenium-java-2.37.0.zip"/>
+	<classpathentry kind="lib" path="G:/Jar files/selenium-server-standalone-2.37.0.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/testng-5.5.jar"/>
+	<classpathentry kind="lib" path="G:/Jar files/xmlbeans-2.4.0.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
